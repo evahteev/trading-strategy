@@ -1,5 +1,15 @@
-# Current
+# 0.14
 
+- Add support for detached technical indicators
+
+# 0.13.8
+
+- Match dependencies and Python version pindowns with Web3.py 6.0
+- Adding [Ethereum Tester](https://github.com/ethereum/eth-tester/) chain id 
+
+# 0.13.7
+
+- Silence pandas warning in `PairGroupedUniverse.get_pair_ids()`
 - Rename "Binance Smart Chain" to "BNB Smart Chain"
 
 # 0.13.6

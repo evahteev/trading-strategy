@@ -12,4 +12,4 @@ dist
 /.idea/trading-strategy.iml
 /.idea/vcs.xml
 
-./idea
+.idea
